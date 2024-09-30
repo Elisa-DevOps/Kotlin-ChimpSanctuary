@@ -1,5 +1,8 @@
+//Project: Chimp Sanctuary Responsibilities
+//Purpose: Track chimp caregiver responsibilities, time completed, and health check
+//Author: Elisa Aldridge
+
 fun main() {
-    // Write your code below 🏞
     var responsibilities = listOf("feed the chimps","play a random game","conduct a health check on Foxie")
   
     var responsibilitiesComplete = 0
@@ -42,7 +45,7 @@ fun main() {
   
     println("Each chimp has now played a game of $randomGame! You've completed $responsibilitiesComplete / ${responsibilities.size} responsibilities.")
   
-    //conduting healt check
+    //conduting health check
     println("Next, ${responsibilities[2]}.")
   
     foxiesHealthCheck.put("temperature", 32.7)
