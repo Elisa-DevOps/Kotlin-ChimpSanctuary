@@ -1,5 +1,5 @@
 //Project: Chimp Sanctuary Responsibilities
-//Purpose: Track chimp caregiver responsibilities, time completed, and health check
+//Purpose: Codecademy Class Project - Track chimp caregiver responsibilities, time completed, and health check
 //Author: Elisa Aldridge
 
 fun main() {
